@@ -1,0 +1,23 @@
+form {
+  border: 1px solid black;
+  padding: 2.5rem;
+  justify-content: center;
+}
+.btn-prime {
+  background-color: black;
+  color: white;
+  border: none;
+  padding: 0.5rem 2rem;
+  border-radius: revert;
+}
+.login-container {
+  width: 100%;
+  display: flex;
+  margin: 2rem 0rem;
+  align-items: center;
+  justify-content: center;
+}
+.btn {
+  margin: 0px auto;
+  width: 100%;
+}
